@@ -12,3 +12,6 @@ https://blog.samaltman.com/productivity
 
 https://nav.al/rich
 
+## Fullstack
+
+[![projects for fullstack](https://i.ytimg.com/an_webp/Osy0yuxuEOw/mqdefault_6s.webp?du=3000&sqp=CKSOrbQG&rs=AOn4CLBdYeDJuYBMoZt_Dnl6Bk1lA4CFmA)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
