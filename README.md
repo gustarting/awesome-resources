@@ -12,6 +12,12 @@ https://blog.samaltman.com/productivity
 
 https://nav.al/rich
 
+## Best Youtubers
+
+https://www.youtube.com/@platzi
+
+https://www.youtube.com/@midulive
+
 ## Fullstack
 
 [![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
