@@ -21,9 +21,9 @@ https://www.youtube.com/@platzi
 
 https://www.youtube.com/@FaztTech
 
-https://www.youtube.com/@HolaMundoDev
-
 https://www.youtube.com/@midulive
+
+https://www.youtube.com/@HolaMundoDev
 
 
 
