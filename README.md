@@ -13,10 +13,12 @@ https://blog.samaltman.com/productivity
 https://nav.al/rich
 
 ## Best Youtubers
+https://www.youtube.com/@programmingwithmosh
+
+https://www.youtube.com/@DotCSV
 
 https://www.youtube.com/@platzi
 
-https://www.youtube.com/@midulive
 
 ## Fullstack
 
