@@ -10,11 +10,11 @@ https://paulgraham.com/genius.html
 
 https://blog.samaltman.com/productivity
 
+https://blog.samaltman.com/how-to-be-successful
+
 https://nav.al/rich
 
-## Best Youtubers
-https://www.youtube.com/@programmingwithmosh
-
+## Best Youtubers in spanish
 https://www.youtube.com/@DotCSV
 
 https://www.youtube.com/@platzi
