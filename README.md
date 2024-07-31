@@ -8,11 +8,15 @@ https://paulgraham.com/hwh.html
 
 https://paulgraham.com/genius.html
 
+https://paulgraham.com/gh.html
+
 https://blog.samaltman.com/productivity
 
 https://blog.samaltman.com/how-to-be-successful
 
 https://nav.al/rich
+
+https://nav.al/happiness
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
 ## Best Youtubers in spanish
