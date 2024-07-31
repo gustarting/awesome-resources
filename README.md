@@ -8,6 +8,7 @@ https://paulgraham.com/hwh.html
 
 https://paulgraham.com/genius.html
 
+https://paulgraham.com/gh.html
 
 https://blog.samaltman.com/productivity
 
@@ -18,6 +19,9 @@ https://nav.al/rich
 https://nav.al/happiness
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
+
+https://paulgraham.es/ensayos/ 
+
 ## Best Youtubers in spanish
 https://www.youtube.com/@DotCSV
 
