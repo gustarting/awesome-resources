@@ -14,6 +14,7 @@ https://blog.samaltman.com/how-to-be-successful
 
 https://nav.al/rich
 
+[![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
 ## Best Youtubers in spanish
 https://www.youtube.com/@DotCSV
 
