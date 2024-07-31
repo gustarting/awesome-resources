@@ -8,7 +8,6 @@ https://paulgraham.com/hwh.html
 
 https://paulgraham.com/genius.html
 
-https://paulgraham.com/gh.html
 
 https://blog.samaltman.com/productivity
 
