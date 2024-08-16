@@ -12,6 +12,8 @@ https://paulgraham.com/hwh.html
 
 https://paulgraham.com/gh.html
 
+https://paulgraham.com/vb.html
+
 https://blog.samaltman.com/productivity
 
 https://blog.samaltman.com/how-to-be-successful
