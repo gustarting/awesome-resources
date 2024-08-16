@@ -14,6 +14,8 @@ https://paulgraham.com/gh.html
 
 https://paulgraham.com/vb.html
 
+https://paulgraham.com/startupideas.html
+
 https://blog.samaltman.com/productivity
 
 https://blog.samaltman.com/how-to-be-successful
