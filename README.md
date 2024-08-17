@@ -5,16 +5,13 @@
 https://paulgraham.com/hs.html
 
 https://paulgraham.com/love.html
-
-
-
 https://paulgraham.com/genius.html
 https://paulgraham.com/hwh.html
 https://paulgraham.com/gh.html
-
+https://paulgraham.com/think.html
 https://paulgraham.com/vb.html
 
-https://paulgraham.com/think.html
+
 
 https://paulgraham.com/startupideas.html
 
