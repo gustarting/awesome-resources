@@ -12,11 +12,9 @@ https://paulgraham.com/vb.html
 https://paulgraham.com/startupideas.html
 
 https://blog.samaltman.com/productivity
-
 https://blog.samaltman.com/how-to-be-successful
 
 https://nav.al/rich
-
 https://nav.al/happiness
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
@@ -24,16 +22,17 @@ https://nav.al/happiness
 https://paulgraham.es/ensayos/ 
 
 ## Best Youtubers in spanish
-https://www.youtube.com/@DotCSV
+https://youtube.com/@DotCSV
 
-https://www.youtube.com/@platzi
+https://youtube.com/@platzi
 
-https://www.youtube.com/@FaztTech
+https://youtube.com/@FaztTech
 
-https://www.youtube.com/@midulive
+https://youtube.com/@midulive
 
-https://www.youtube.com/@HolaMundoDev
+https://youtube.com/@HolaMundoDev
 
+https://youtube.com/@bettatech
 
 
 ## Fullstack
