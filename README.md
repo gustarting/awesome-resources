@@ -10,6 +10,8 @@ https://paulgraham.com/gh.html
 https://paulgraham.com/think.html
 https://paulgraham.com/vb.html
 https://paulgraham.com/startupideas.html
+https://paulgraham.com/college.html
+https://paulgraham.com/worked.html
 
 https://blog.samaltman.com/productivity
 https://blog.samaltman.com/how-to-be-successful
