@@ -9,17 +9,25 @@ https://paulgraham.com/love.html
 https://paulgraham.com/genius.html
 
 https://paulgraham.com/hwh.html
+
 https://paulgraham.com/gh.html
+
 https://paulgraham.com/think.html
+
 https://paulgraham.com/vb.html
+
 https://paulgraham.com/startupideas.html
+
 https://paulgraham.com/college.html
+
 https://paulgraham.com/worked.html
 
 https://blog.samaltman.com/productivity
+
 https://blog.samaltman.com/how-to-be-successful
 
 https://nav.al/rich
+
 https://nav.al/happiness
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
@@ -28,7 +36,9 @@ https://paulgraham.es/ensayos/
 
 ## Best Youtubers in spanish
 https://youtube.com/@DotCSV
+
 https://youtube.com/@platzi
+
 https://youtube.com/@FaztTech
 https://youtube.com/@faztcode
 https://youtube.com/@midulive
