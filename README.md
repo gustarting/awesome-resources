@@ -30,6 +30,8 @@ https://nav.al/rich
 
 https://nav.al/happiness
 
+https://pmarchive.com/guide_to_career_planning_part1.html
+
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
 
 https://paulgraham.es/ensayos/ 
