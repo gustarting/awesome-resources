@@ -36,7 +36,7 @@ https://pmarchive.com/guide_to_career_planning_part1.html
 
 https://paulgraham.es/ensayos/ 
 
-## Best Youtubers in spanish
+## Best Youtubers to learn programming without requirements
 
 https://youtube.com/@DotCSV
 
@@ -44,7 +44,9 @@ https://youtube.com/@platzi
 
 https://youtube.com/@FaztTech
 
-https://youtube.com/@faztcode
+https://youtube.com/@FaztCode
+
+https://www.youtube.com/@midudev
 
 https://youtube.com/@midulive
 
@@ -52,11 +54,23 @@ https://youtube.com/@HolaMundoDev
 
 https://youtube.com/@bettatech
 
-https://www.youtube.com/@mouredevtv
-
 https://www.youtube.com/@jonmircha
 
+https://www.youtube.com/@NetworkChuck
 
+https://www.youtube.com/@ProgramadorX
+
+MoureDev:
+https://www.youtube.com/@mouredevtv
+
+TraversyMedia:
+https://www.youtube.com/@TraversyMedia
+
+developedbyed:
+https://www.youtube.com/@developedbyed
+
+munoncode:
+https://www.youtube.com/@munoncode
 
 ## Fullstack
 
