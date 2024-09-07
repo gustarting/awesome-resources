@@ -52,6 +52,8 @@ https://youtube.com/@HolaMundoDev
 
 https://youtube.com/@bettatech
 
+https://www.youtube.com/@mouredevtv
+
 
 ## Fullstack
 
