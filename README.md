@@ -54,6 +54,9 @@ https://youtube.com/@bettatech
 
 https://www.youtube.com/@mouredevtv
 
+https://www.youtube.com/@jonmircha
+
+
 
 ## Fullstack
 
