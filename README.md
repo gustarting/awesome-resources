@@ -60,18 +60,12 @@ https://www.youtube.com/@NetworkChuck
 
 https://www.youtube.com/@ProgramadorX
 
-MoureDev:
 https://www.youtube.com/@mouredevtv
 
-TraversyMedia:
 https://www.youtube.com/@TraversyMedia
 
 https://www.youtube.com/@programmingwithmosh
 
-
-
-
-developedbyed:
 https://www.youtube.com/@developedbyed
 
 munoncode:
