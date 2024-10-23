@@ -85,4 +85,6 @@ https://2023.stateofreact.com/en-US/resources/
 
 https://stateofjs.com/es-ES/
 
-https://www.jetbrains.com/lp/devecosystem-2021/
+https://stateofcss.com/en-US
+
+https://www.jetbrains.com/lp/devecosystem-2023/
