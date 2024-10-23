@@ -74,3 +74,11 @@ https://www.youtube.com/@munoncode
 ## Fullstack
 
 [![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
+
+## Surveys and some awesome insights
+
+https://survey.stackoverflow.co/
+
+https://lp.jetbrains.com/python-developers-survey-2023/
+
+
