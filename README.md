@@ -81,4 +81,6 @@ https://survey.stackoverflow.co/
 
 https://lp.jetbrains.com/python-developers-survey-2023/
 
+https://stateofjs.com/es-ES/
 
+https://www.jetbrains.com/lp/devecosystem-2021/
