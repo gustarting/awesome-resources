@@ -88,3 +88,5 @@ https://stateofjs.com/es-ES/
 https://stateofcss.com/en-US
 
 https://www.jetbrains.com/lp/devecosystem-2023/
+
+https://www.kaggle.com/competitions/kaggle-survey-2022/overview
