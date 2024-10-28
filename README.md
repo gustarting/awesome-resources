@@ -28,6 +28,8 @@ https://blog.samaltman.com/how-to-be-successful
 
 https://nav.al/rich
 
+Whats is Education? | https://www.navalmanack.com/secret-sections/education
+
 https://nav.al/happiness
 
 https://pmarchive.com/guide_to_career_planning_part1.html
