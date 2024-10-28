@@ -104,3 +104,5 @@ https://www.cursor.com/
 https://v0.dev/
 
 All IA chatbots start with https://chatgpt.com/
+
+https://openai.com/index/learning-to-reason-with-llms/
