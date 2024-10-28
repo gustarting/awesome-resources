@@ -92,3 +92,15 @@ https://stateofcss.com/en-US
 https://www.jetbrains.com/lp/devecosystem-2023/
 
 https://www.kaggle.com/competitions/kaggle-survey-2022/overview
+
+## AI
+
+https://claude.ai/new
+
+https://bolt.new/
+
+https://www.cursor.com/
+
+https://v0.dev/
+
+All IA chatbots start with https://chatgpt.com/
