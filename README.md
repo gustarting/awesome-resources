@@ -77,6 +77,10 @@ https://www.youtube.com/@munoncode
 
 [![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
 
+https://www.epicreact.dev/
+
+https://css-for-js.dev/
+
 ## Surveys and some awesome insights
 
 https://survey.stackoverflow.co/
