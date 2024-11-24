@@ -70,8 +70,13 @@ https://www.youtube.com/@programmingwithmosh
 
 https://www.youtube.com/@developedbyed
 
-munoncode:
 https://www.youtube.com/@munoncode
+
+## Roadmap for CS
+
+http://www.catb.org/esr/faqs/hacker-howto.html
+
+https://norvig.com/21-days.html
 
 ## Fullstack
 
