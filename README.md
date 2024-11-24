@@ -95,6 +95,8 @@ https://stateofcss.com/en-US
 
 https://www.jetbrains.com/lp/devecosystem-2023/
 
+https://github.blog/news-insights/octoverse/octoverse-2024/
+
 https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
 ## AI
