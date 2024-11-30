@@ -41,6 +41,10 @@ https://paulgraham.es/ensayos/
 
 ## Best Youtubers to learn programming without requirements
 
+https://www.youtube.com/@t3dotgg
+
+https://www.youtube.com/@ThePrimeTimeagen
+
 https://youtube.com/@DotCSV
 
 https://youtube.com/@platzi
