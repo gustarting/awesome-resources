@@ -45,6 +45,14 @@ https://www.youtube.com/@t3dotgg
 
 https://www.youtube.com/@ThePrimeTimeagen
 
+https://www.youtube.com/@Fireship
+
+https://www.youtube.com/@TechWithTim
+
+https://www.youtube.com/@TraversyMedia
+
+https://www.youtube.com/@programmingwithmosh
+
 https://youtube.com/@DotCSV
 
 https://youtube.com/@platzi
@@ -68,10 +76,6 @@ https://www.youtube.com/@NetworkChuck
 https://www.youtube.com/@ProgramadorX
 
 https://www.youtube.com/@mouredevtv
-
-https://www.youtube.com/@TraversyMedia
-
-https://www.youtube.com/@programmingwithmosh
 
 https://www.youtube.com/@developedbyed
 
