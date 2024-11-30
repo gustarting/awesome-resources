@@ -126,3 +126,7 @@ https://v0.dev/
 All IA chatbots start with https://chatgpt.com/
 
 https://openai.com/index/learning-to-reason-with-llms/
+
+Terence Tao | https://mathstodon.xyz/@tao/113132503432772494 | https://en.wikipedia.org/wiki/OpenAI_o1
+
+Linus Torvalds | https://youtu.be/s4wlrxFf2lM?si=1DR-zhfKu6t-4LMC&t=2302 | 2029, AI is eating the world 
