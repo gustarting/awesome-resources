@@ -65,6 +65,8 @@ https://www.youtube.com/@midudev
 
 https://youtube.com/@midulive
 
+https://www.youtube.com/@GentlemanProgramming
+
 https://youtube.com/@HolaMundoDev
 
 https://youtube.com/@bettatech
