@@ -3,41 +3,41 @@
  
 ## On productivity
 
-https://paulgraham.com/hs.html
+https://www.paulgraham.com/hs.html
 
-https://paulgraham.com/love.html
+https://www.paulgraham.com/love.html
 
-https://paulgraham.com/hwh.html
+https://www.paulgraham.com/hwh.html
 
-https://paulgraham.com/genius.html
+https://www.paulgraham.com/genius.html
 
-https://paulgraham.com/gh.html
+https://www.paulgraham.com/gh.html
 
-https://paulgraham.com/think.html
+https://www.paulgraham.com/think.html
 
-https://paulgraham.com/vb.html
+https://www.paulgraham.com/vb.html
 
-https://paulgraham.com/startupideas.html
+https://www.paulgraham.com/startupideas.html
 
-https://paulgraham.com/college.html
+https://www.paulgraham.com/college.html
 
-https://paulgraham.com/worked.html
+https://www.paulgraham.com/worked.html
 
-https://blog.samaltman.com/productivity
+https://www.blog.samaltman.com/productivity
 
-https://blog.samaltman.com/how-to-be-successful
+https://www.blog.samaltman.com/how-to-be-successful
 
-https://nav.al/rich
+https://www.nav.al/rich
 
 Whats is Education? | https://www.navalmanack.com/secret-sections/education
 
-https://nav.al/happiness
+https://www.nav.al/happiness
 
-https://pmarchive.com/guide_to_career_planning_part1.html
+https://www.pmarchive.com/guide_to_career_planning_part1.html
 
-[![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://paulgraham.com/articles.html)
+[![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://www.paulgraham.com/articles.html)
 
-https://paulgraham.es/ensayos/ 
+https://www.paulgraham.es/ensayos/ 
 
 ## Best Youtubers to learn programming without requirements
 
@@ -53,23 +53,23 @@ https://www.youtube.com/@TraversyMedia
 
 https://www.youtube.com/@programmingwithmosh
 
-https://youtube.com/@DotCSV
+https://www.youtube.com/@DotCSV
 
-https://youtube.com/@platzi
+https://www.youtube.com/@platzi
 
-https://youtube.com/@FaztTech
+https://www.youtube.com/@FaztTech
 
-https://youtube.com/@FaztCode
+https://www.youtube.com/@FaztCode
 
 https://www.youtube.com/@midudev
 
-https://youtube.com/@midulive
+https://www.youtube.com/@midulive
 
 https://www.youtube.com/@GentlemanProgramming
 
-https://youtube.com/@HolaMundoDev
+https://www.youtube.com/@HolaMundoDev
 
-https://youtube.com/@bettatech
+https://www.youtube.com/@bettatech
 
 https://www.youtube.com/@jonmircha
 
@@ -87,7 +87,7 @@ https://www.youtube.com/@munoncode
 
 http://www.catb.org/esr/faqs/hacker-howto.html
 
-https://norvig.com/21-days.html
+https://www.norvig.com/21-days.html
 
 ## Fullstack
 
@@ -95,7 +95,7 @@ https://norvig.com/21-days.html
 
 https://www.epicreact.dev/
 
-https://css-for-js.dev/
+https://www.css-for-js.dev/
 
 ## Surveys and some awesome insights
 
@@ -117,9 +117,9 @@ https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
 ## AI
 
-https://claude.ai/new
+https://www.claude.ai/new
 
-https://bolt.new/
+https://www.bolt.new/
 
 https://www.cursor.com/
 
