@@ -33,7 +33,7 @@ Whats is Education? | https://www.navalmanack.com/secret-sections/education
 
 https://www.nav.al/happiness
 
-https://a16z.com/why-software-is-eating-the-world/
+https://a16z.com/why-software-is-eating-the-world/ | Software is eating the world
 
 https://www.pmarchive.com/guide_to_career_planning_part1.html
 
@@ -134,3 +134,7 @@ https://openai.com/index/learning-to-reason-with-llms/
 Terence Tao | https://mathstodon.xyz/@tao/113132503432772494 | https://en.wikipedia.org/wiki/OpenAI_o1
 
 Linus Torvalds | https://youtu.be/s4wlrxFf2lM?si=1DR-zhfKu6t-4LMC&t=2302 | 2029, AI is eating the world 
+
+## Books
+
+
