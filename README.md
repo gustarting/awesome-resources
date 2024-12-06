@@ -33,6 +33,8 @@ Whats is Education? | https://www.navalmanack.com/secret-sections/education
 
 https://www.nav.al/happiness
 
+https://a16z.com/why-software-is-eating-the-world/
+
 https://www.pmarchive.com/guide_to_career_planning_part1.html
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://www.paulgraham.com/articles.html)
