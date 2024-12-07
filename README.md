@@ -146,3 +146,10 @@ https://www.mostrecommendedbooks.com/best-books-of-all-time
 https://www.goodbooks.io/top-100/all-books
 
 https://www.navalmanack.com/navals-recommended-reading
+
+## Marketing
+
+https://github.com/goabstract/Marketing-for-Engineers
+
+
+
