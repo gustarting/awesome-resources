@@ -57,6 +57,8 @@ https://www.youtube.com/@programmingwithmosh
 
 https://www.youtube.com/@DotCSV
 
+https://www.youtube.com/@DotCSVLab
+
 https://www.youtube.com/@platzi
 
 https://www.youtube.com/@FaztTech
