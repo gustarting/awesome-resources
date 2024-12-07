@@ -87,7 +87,7 @@ https://www.youtube.com/@developedbyed
 
 https://www.youtube.com/@munoncode
 
-## Roadmap for CS
+## Roadmap for Computer Science and Software Engineering
 
 http://www.catb.org/esr/faqs/hacker-howto.html
 
@@ -151,5 +151,7 @@ https://www.navalmanack.com/navals-recommended-reading
 
 https://github.com/goabstract/Marketing-for-Engineers
 
+https://www.similarweb.com/
 
+[How I Get Over 100,000,000 Views Per Video](https://www.youtube.com/watch?v=T7M3PpjBZzw)
 
