@@ -121,6 +121,8 @@ https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
 ## AI
 
+https://a16z.com/ai-will-save-the-world/
+
 https://www.claude.ai/new
 
 https://www.bolt.new/
