@@ -7,7 +7,6 @@ https://github.com/EvanLi/Github-Ranking
 
 https://gitstar-ranking.com/repositories
 
-
 ## On productivity
 
 https://www.paulgraham.com/hs.html
@@ -62,9 +61,9 @@ https://www.youtube.com/@TraversyMedia
 
 https://www.youtube.com/@programmingwithmosh
 
-https://www.youtube.com/@DotCSV
-
 https://www.youtube.com/@DotCSVLab
+
+https://www.youtube.com/@DotCSV
 
 https://www.youtube.com/@platzi
 
