@@ -126,7 +126,7 @@ https://github.blog/news-insights/octoverse/octoverse-2024/
 
 https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
-## AI
+## AI and AGI(2027)
 
 https://a16z.com/ai-will-save-the-world/
 
