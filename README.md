@@ -109,11 +109,13 @@ https://www.css-for-js.dev/
 
 ## Surveys and some awesome insights
 
+https://2023.stateofreact.com/en-US/resources/
+
 https://survey.stackoverflow.co/
 
 https://lp.jetbrains.com/python-developers-survey-2023/
 
-https://2023.stateofreact.com/en-US/resources/
+
 
 https://stateofjs.com/es-ES/
 
