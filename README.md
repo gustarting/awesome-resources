@@ -33,7 +33,7 @@ https://www.blog.samaltman.com/productivity
 
 https://www.blog.samaltman.com/how-to-be-successful
 
-https://www.nav.al/rich
+Like a MBA but it's better | https://www.nav.al/rich
 
 Whats is Education? | https://www.navalmanack.com/secret-sections/education
 
