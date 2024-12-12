@@ -91,7 +91,6 @@ https://www.youtube.com/@mouredevtv
 
 https://www.youtube.com/@developedbyed
 
-https://www.youtube.com/@munoncode
 
 ## Roadmap for Computer Science and Software Engineering
 
