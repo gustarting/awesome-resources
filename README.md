@@ -49,6 +49,8 @@ https://www.paulgraham.es/ensayos/
 
 ## Best Youtubers to learn programming without requirements
 
+https://www.youtube.com/@jherr
+
 https://www.youtube.com/@t3dotgg
 
 https://www.youtube.com/@ThePrimeTimeagen
@@ -90,6 +92,8 @@ https://www.youtube.com/@ProgramadorX
 https://www.youtube.com/@mouredevtv
 
 https://www.youtube.com/@developedbyed
+
+
 
 
 ## Roadmap for Computer Science and Software Engineering
