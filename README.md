@@ -53,6 +53,10 @@ https://www.youtube.com/@jherr
 
 https://www.youtube.com/@t3dotgg
 
+https://www.youtube.com/@ALifeEngineered
+
+https://www.youtube.com/@RahulPandeyrkp
+
 https://www.youtube.com/@ThePrimeTimeagen
 
 https://www.youtube.com/@Fireship
@@ -94,9 +98,9 @@ https://www.youtube.com/@mouredevtv
 https://www.youtube.com/@developedbyed
 
 
-
-
 ## Roadmap for Computer Science and Software Engineering
+
+https://cs50.harvard.edu/x/2024/
 
 http://www.catb.org/esr/faqs/hacker-howto.html
 
@@ -117,8 +121,6 @@ https://2023.stateofreact.com/en-US/resources/
 https://survey.stackoverflow.co/
 
 https://lp.jetbrains.com/python-developers-survey-2023/
-
-
 
 https://stateofjs.com/es-ES/
 
