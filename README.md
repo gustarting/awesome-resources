@@ -69,6 +69,10 @@ https://www.youtube.com/@TraversyMedia
 
 https://www.youtube.com/@programmingwithmosh
 
+https://www.youtube.com/@LeadDev
+
+
+
 https://www.youtube.com/@DotCSVLab
 
 https://www.youtube.com/@DotCSV
