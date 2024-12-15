@@ -1,11 +1,13 @@
-# awesome-resources
+# awesome
 > "I read books and talked to people. I mean that's kind of how one learns anything. There's lots of great books out there & lots of smart people." (Elon Musk)
  
-## A list of the most github stars and forks repositories
+## A list of the most github stars and forks repositories. A list of top github users per country.
 
 https://github.com/EvanLi/Github-Ranking
 
 https://gitstar-ranking.com/repositories
+
+https://github.com/gayanvoice/top-github-users/
 
 ## On productivity
 
@@ -45,7 +47,7 @@ https://pmarchive.com/
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://www.paulgraham.com/articles.html)
 
-https://www.paulgraham.es/ensayos/ 
+https://www.paulgraham.es/ensayos/ | Ensayos en español
 
 ## Best Youtubers to learn programming without requirements
 
@@ -145,9 +147,11 @@ https://www.claude.ai/new
 
 https://www.bolt.new/
 
+https://v0.dev/
+
 https://www.cursor.com/
 
-https://v0.dev/
+https://codeium.com/windsurf
 
 All IA chatbots start with https://chatgpt.com/
 
