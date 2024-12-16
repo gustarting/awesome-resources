@@ -105,6 +105,8 @@ https://www.youtube.com/@mouredevtv
 
 https://www.youtube.com/@developedbyed
 
+https://github.com/ErikCH/DevYouTubeList
+
 ## Roadmap for Computer Science and Software Engineering
 
 https://cs50.harvard.edu/x/2024/
