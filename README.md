@@ -109,6 +109,8 @@ https://github.com/ErikCH/DevYouTubeList
 
 https://github.com/JoseDeFreitas/awesome-youtubers
 
+https://github.com/topicplay/YouTubeList
+
 ## Roadmap for Computer Science and Software Engineering
 
 https://cs50.harvard.edu/x/2024/
