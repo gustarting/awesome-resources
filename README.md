@@ -107,6 +107,8 @@ https://www.youtube.com/@developedbyed
 
 https://github.com/ErikCH/DevYouTubeList
 
+https://github.com/JoseDeFreitas/awesome-youtubers
+
 ## Roadmap for Computer Science and Software Engineering
 
 https://cs50.harvard.edu/x/2024/
