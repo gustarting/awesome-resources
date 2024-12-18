@@ -187,3 +187,5 @@ https://www.similarweb.com/
 
 ## Happiness
 
+https://www.nav.al/happiness
+
