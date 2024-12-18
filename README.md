@@ -112,6 +112,7 @@ https://github.com/JoseDeFreitas/awesome-youtubers
 https://github.com/topicplay/YouTubeList
 
 ## Roadmap for Computer Science and Software Engineering
+[![Best courses](https://i.ytimg.com/vi/dqlO6_5rZSQ/hq720.jpg)](https://www.youtube.com/watch?v=dqlO6_5rZSQ)
 
 https://cs50.harvard.edu/x/2024/
 
