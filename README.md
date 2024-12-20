@@ -43,7 +43,7 @@ https://www.nav.al/happiness
 
 https://a16z.com/why-software-is-eating-the-world/ | Software is eating the world
 
-https://pmarchive.com/
+https://pmarchive.com/ | best articles from Marc Andreessen
 
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://www.paulgraham.com/articles.html)
 
