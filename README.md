@@ -120,6 +120,8 @@ http://www.catb.org/esr/faqs/hacker-howto.html
 
 https://www.norvig.com/21-days.html
 
+https://www.reddit.com/r/learnprogramming/wiki/faq/
+
 ## Fullstack
 
 [![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
